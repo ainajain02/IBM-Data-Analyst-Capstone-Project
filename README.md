@@ -1,7 +1,7 @@
 # 📊 IBM Data Analyst Capstone Project
 
 ## Overview
-This repository contains the final project for the IBM Data Analyst Professional Certificate on Coursera. The capstone project focuses on applying various data analysis techniques to a real-world dataset, showcasing the skills learned throughout the program, including data wrangling, exploratory data analysis, visualization, and insights generation. The dataset used in this project is Data Source : Job posting, Training portals and Surveys "https://cf courses data.s3.us.cloud object storage.appdomain.cloud/IBM DA0321EN Skills Network/LargeData/m2_survey_data.csv"
+This repository contains the final project for the IBM Data Analyst Professional Certificate on Coursera. The capstone project focuses on applying various data analysis techniques to a real-world dataset, showcasing the skills learned throughout the program, including data wrangling, exploratory data analysis, visualization, and insights generation. The dataset used in this project is Data Source : Job posting, Training portals and Surveys "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-Skills-Network/LargeData/m2_survey_data.csv"
 
 ## Project Objective
 The goal of this project is to:
