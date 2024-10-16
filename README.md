@@ -28,7 +28,7 @@ The following tools and technologies were used in this project:
 * Insights and Recommendations: Based on the analysis, I provided actionable recommendations to address key findings.
 
 ## Key Insights
-[https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards]
+https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards
 * Dashboard 1- Current technology usage
 * Dashboard 2- Future technology trend
 * Dashboard 3- Demographics
