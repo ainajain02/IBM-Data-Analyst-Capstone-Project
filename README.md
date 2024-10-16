@@ -28,9 +28,10 @@ The following tools and technologies were used in this project:
 * Insights and Recommendations: Based on the analysis, I provided actionable recommendations to address key findings.
 
 ## Key Insights
-* Dashboard 1- Current technology usage-[
-* Dashboard 2- Future technology trend-
-* Dashboard 3- Demographics-
+[https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards]
+* Dashboard 1- Current technology usage
+* Dashboard 2- Future technology trend
+* Dashboard 3- Demographics
 
  ## Conclusion
 This project demonstrates my ability to apply the data analysis techniques and tools learned during the IBM Data Analyst Professional Certificate. Through cleaning, analyzing, and visualizing data, I was able to derive meaningful insights and make data-driven recommendations.
