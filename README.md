@@ -28,10 +28,10 @@ The following tools and technologies were used in this project:
 * Insights and Recommendations: Based on the analysis, I provided actionable recommendations to address key findings.
 
 ## Key Insights
-https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards
-* Dashboard 1- Current technology usage
-* Dashboard 2- Future technology trend
-* Dashboard 3- Demographics
+
+* [Dashboard 1- Current technology usage](https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards)- This analysis reflects a tech landscape dominated by versatile, scalable technologies, with an emphasis on full-stack development, cloud infrastructure, and modern web frameworks.
+* [Dashboard 2- Future technology trend](https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards)- This analysis provides a clear view of the evolving tech landscape, emphasizing the growing demand for full-stack development skills, cloud platforms, and a balance between relational and non-relational databases.
+* [Dashboard 3- Demographics](https://github.com/ainajain02/IBM-Data-Analyst-Capstone-Project/tree/main/Dashboards)- This demographic data highlights the importance of fostering diversity in gender and geography within the tech industry, as well as supporting a wide range of educational backgrounds.
 
  ## Conclusion
 This project demonstrates my ability to apply the data analysis techniques and tools learned during the IBM Data Analyst Professional Certificate. Through cleaning, analyzing, and visualizing data, I was able to derive meaningful insights and make data-driven recommendations.
