@@ -28,11 +28,9 @@ The following tools and technologies were used in this project:
 * Insights and Recommendations: Based on the analysis, I provided actionable recommendations to address key findings.
 
 ## Key Insights
-* HTML/CSS is estimated to stay popular the same inthe next year
-*  PostgreSQL will be the most demand of database
-*   Linux platform is predicted to stay the same at 1st requirement
-*   The most percentage of Web Frame will be occupied by React.js
-*   Men are interested in IT skills more than women
+* Dashboard 1- Current technology usage-[
+* Dashboard 2- Future technology trend-
+* Dashboard 3- Demographics-
 
  ## Conclusion
 This project demonstrates my ability to apply the data analysis techniques and tools learned during the IBM Data Analyst Professional Certificate. Through cleaning, analyzing, and visualizing data, I was able to derive meaningful insights and make data-driven recommendations.
